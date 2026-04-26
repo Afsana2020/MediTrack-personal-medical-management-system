@@ -1,0 +1,24 @@
+# Core
+react@18.2.0
+react-dom@18.2.0
+react-scripts@5.0.1
+
+# Routing
+react-router-dom@6.15.0
+
+# HTTP Client
+axios@1.5.0
+
+# UI Components
+bootstrap@5.3.1
+react-bootstrap@2.8.0
+
+# Icons
+react-icons@4.11.0
+
+# Form Select (for autocomplete)
+react-select@5.7.0
+
+# Charts (if used)
+chart.js@4.4.0
+react-chartjs-2@5.2.0
